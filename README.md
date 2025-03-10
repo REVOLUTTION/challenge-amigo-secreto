@@ -23,3 +23,6 @@ index.html: Estructura del juego
 style.css:  Estilos de la interfaz
 app.js:  Lógica del sorteo
 README.md: Información del proyecto
+
+Autor del Proyecto
+Antonio Rojas
